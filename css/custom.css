@@ -1,0 +1,51 @@
+.name {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header-signature {
+    font-family: 'Dancing Script', cursive;
+}
+
+.arrow_carrot-2left {
+    border: 1px solid white;
+    border-radius: 5%;
+}
+
+.backend-icon-container {
+    display: flex;
+    /* border: 1px solid white; */
+    width: 120px;
+    /* border-radius: 5px; */
+}
+
+.backend-icon-container > p {
+    color: white;
+    font-size: 40px;
+    padding-top: 15px;
+    margin: 0;
+    left: -15px;
+    position: relative;
+}
+
+.backend-icon-container > i:last-child {
+    left: -20px;
+    position: relative;
+}
+
+.contact-icons {
+    font-size: 36px;
+    /* width: 45px;
+    height: 50px; */
+}
+
+.github-icon {
+    margin-top: 5px;
+    width: 48px;
+    height: 48px;
+    margin-bottom: 0px;
+}
+
+.contact-container {
+    padding-top: 50px;
+}
